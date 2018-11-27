@@ -1,0 +1,6 @@
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/CommunalTrustPortalApp.java
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/model/User.java
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/controller/LoginAndRegistrationController.java
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/repository/UserRepository.java
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/service/UserService.java
+/Users/vishakhrameshan/Documents/Workspace/Communal_Trust_Portal_v1.0.0/communalTrustPortal/src/main/java/com/application/communalTrustPortal/service/UserServiceImpl.java
