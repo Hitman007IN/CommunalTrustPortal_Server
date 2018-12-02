@@ -8,5 +8,5 @@ public class CommunalTrustPortalApp
 {
 	 public static void main(String[] args) throws Exception {
 	        SpringApplication.run(CommunalTrustPortalApp.class, args);
-	    }
+	 }
 }

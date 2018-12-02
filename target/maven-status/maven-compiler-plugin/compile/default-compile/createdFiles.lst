@@ -1,6 +1,0 @@
-com/application/communalTrustPortal/repository/UserRepository.class
-com/application/communalTrustPortal/service/UserService.class
-com/application/communalTrustPortal/CommunalTrustPortalApp.class
-com/application/communalTrustPortal/model/User.class
-com/application/communalTrustPortal/service/UserServiceImpl.class
-com/application/communalTrustPortal/controller/LoginAndRegistrationController.class
